@@ -1,0 +1,17 @@
+@charset "UTF-8";
+@font-face {
+    font-family: 'SBAggroM';
+    src: url('https://github.com/zasm1n/Font/blob/main/SBAggro/SBAggroM.svg#SBAggroM') format('svg'),
+         url('https://github.com/zasm1n/Font/blob/main/SBAggro/SBAggroM.ttf') format('truetype'),
+         url('https://github.com/zasm1n/Font/blob/main/SBAggro/SBAggroM.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+  }
+@font-face {
+    font-family: 'sbagrrom';
+    src: url('https://github.com/zasm1n/Font/blob/main/SBAggro/sbagrrom.eot');
+    src: url('https://github.com/zasm1n/Font/blob/main/SBAggro/sbagrrom.eot?#iefix') format('embedded-opentype'),
+         url('https://github.com/zasm1n/Font/blob/main/SBAggro/sbagrrom.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+  }
