@@ -15,3 +15,36 @@
     font-weight: normal;
     font-style: normal;
 }
+@font-face {
+  font-family: 'SBAggroL';
+  src: url('https://rawcdn.githack.com/zasm1n/Font/bde52bff6859410e1e9695efbb4d6dcf1cdbfacc/SBAggro/SBAggroL.svg#SBAggroL') format('svg'),
+       url('https://rawcdn.githack.com/zasm1n/Font/bde52bff6859410e1e9695efbb4d6dcf1cdbfacc/SBAggro/SBAggroL.ttf') format('truetype'),
+       url('https://rawcdn.githack.com/zasm1n/Font/bde52bff6859410e1e9695efbb4d6dcf1cdbfacc/SBAggro/SBAggroL.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'sbagrrol';
+  src: url('https://rawcdn.githack.com/zasm1n/Font/bde52bff6859410e1e9695efbb4d6dcf1cdbfacc/SBAggro/sbagrrol.eot');
+  src: url('https://rawcdn.githack.com/zasm1n/Font/bde52bff6859410e1e9695efbb4d6dcf1cdbfacc/SBAggro/sbagrrol.eot?#iefix') format('embedded-opentype'),
+       url('https://rawcdn.githack.com/zasm1n/Font/bde52bff6859410e1e9695efbb4d6dcf1cdbfacc/SBAggro/sbagrrol.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'SBAggroB';
+  src: url('https://rawcdn.githack.com/zasm1n/Font/bde52bff6859410e1e9695efbb4d6dcf1cdbfacc/SBAggro/SBAggroB.svg#SBAggroB') format('svg'),
+       url('https://rawcdn.githack.com/zasm1n/Font/bde52bff6859410e1e9695efbb4d6dcf1cdbfacc/SBAggro/SBAggroB.ttf') format('truetype'),
+       url('https://rawcdn.githack.com/zasm1n/Font/bde52bff6859410e1e9695efbb4d6dcf1cdbfacc/SBAggro/SBAggroB.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'sbagrrob';
+  src: url('https://rawcdn.githack.com/zasm1n/Font/bde52bff6859410e1e9695efbb4d6dcf1cdbfacc/SBAggro/sbagrrob.eot');
+  src: url('https://rawcdn.githack.com/zasm1n/Font/bde52bff6859410e1e9695efbb4d6dcf1cdbfacc/SBAggro/sbagrrob.eot?#iefix') format('embedded-opentype'),
+       url('https://rawcdn.githack.com/zasm1n/Font/bde52bff6859410e1e9695efbb4d6dcf1cdbfacc/SBAggro/sbagrrob.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
